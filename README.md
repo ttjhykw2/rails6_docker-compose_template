@@ -1,4 +1,4 @@
-# rails6_docker-compose
+# rails6_docker-compose_template
 
 docker-compose を用いて Rails 6 アプリケーションの開発を始めるためのテンプレート
 
